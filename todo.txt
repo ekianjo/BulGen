@@ -1,0 +1,4 @@
+#define flow of the program
+#define functions to use
+#local database of BS excuses
+#Use pyZenity probably to save time. 
