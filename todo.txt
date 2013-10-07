@@ -2,3 +2,9 @@
 #define functions to use
 #local database of BS excuses
 #Use pyZenity probably to save time. 
+
+#categories for BS
+#couldnt reach some place on time
+#couldnt finish something on time
+#couldnt call you back
+#couldnt send email on time
